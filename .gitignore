@@ -1,0 +1,12 @@
+#   Dataset
+datasets/
+*.png
+*.jpg
+*.jpeg
+*.json
+
+#   notebooks
+*.ipynb
+notebooks/
+
+__pycahe__
